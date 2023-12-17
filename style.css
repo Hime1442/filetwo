@@ -1,0 +1,9 @@
+h2 {
+  width: 150px;
+  height: 60px;
+  background: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
